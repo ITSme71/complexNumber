@@ -24,5 +24,3 @@ structure use of complex number with some basic math functions
 
 #TODO
 4. In Verilog 
-
-
