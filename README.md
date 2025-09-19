@@ -4,7 +4,7 @@ Structure use of complex number with some basic math functions
 	complexNumber = real + 1j*imag
 
 1. In C
-	Structure is used to implement comlex number.
+	Structure is used to implement complex number.
 	Input & output data type is "float", which can be changed (using typedef) according to need.
 	Basic complex functions are implemented.
 	Example is shown in "example.c".
@@ -12,7 +12,7 @@ Structure use of complex number with some basic math functions
 	Output executable is "niam"
 
 2. In CPP
-	Class is used to implement comlex number.
+	Class is used to implement complex number.
 	Input & output data type is "float", which can be changed (using typedef) according to need.
 	Real and imag variable are private in this class.
 	Basic complex functions are implemented.
